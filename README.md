@@ -1,5 +1,8 @@
 # egg-content-scan
 
+![npm](https://img.shields.io/npm/dt/egg-content-scan.svg)
+![npm](https://img.shields.io/npm/v/egg-content-scan.svg)
+
 egg plugin for alicloud content scan
 
 ## Install
